@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/faiyaz-vaid.github.io/static/css/main.7d43ab7b.chunk.css",
-    "main.js": "/faiyaz-vaid.github.io/static/js/main.7c50e326.chunk.js",
-    "main.js.map": "/faiyaz-vaid.github.io/static/js/main.7c50e326.chunk.js.map",
+    "main.css": "/faiyaz-vaid.github.io/static/css/main.edd727c6.chunk.css",
+    "main.js": "/faiyaz-vaid.github.io/static/js/main.ba2e0f94.chunk.js",
+    "main.js.map": "/faiyaz-vaid.github.io/static/js/main.ba2e0f94.chunk.js.map",
     "runtime-main.js": "/faiyaz-vaid.github.io/static/js/runtime-main.430ce3db.js",
     "runtime-main.js.map": "/faiyaz-vaid.github.io/static/js/runtime-main.430ce3db.js.map",
     "static/css/2.b226b99e.chunk.css": "/faiyaz-vaid.github.io/static/css/2.b226b99e.chunk.css",
-    "static/js/2.61ac8c38.chunk.js": "/faiyaz-vaid.github.io/static/js/2.61ac8c38.chunk.js",
-    "static/js/2.61ac8c38.chunk.js.map": "/faiyaz-vaid.github.io/static/js/2.61ac8c38.chunk.js.map",
+    "static/js/2.0d336cb2.chunk.js": "/faiyaz-vaid.github.io/static/js/2.0d336cb2.chunk.js",
+    "static/js/2.0d336cb2.chunk.js.map": "/faiyaz-vaid.github.io/static/js/2.0d336cb2.chunk.js.map",
     "index.html": "/faiyaz-vaid.github.io/index.html",
-    "precache-manifest.605e80b28306346bccd74fe36f249200.js": "/faiyaz-vaid.github.io/precache-manifest.605e80b28306346bccd74fe36f249200.js",
+    "precache-manifest.d90b811a892bb1729a7c83ee5d25d85c.js": "/faiyaz-vaid.github.io/precache-manifest.d90b811a892bb1729a7c83ee5d25d85c.js",
     "service-worker.js": "/faiyaz-vaid.github.io/service-worker.js",
     "static/css/2.b226b99e.chunk.css.map": "/faiyaz-vaid.github.io/static/css/2.b226b99e.chunk.css.map",
-    "static/css/main.7d43ab7b.chunk.css.map": "/faiyaz-vaid.github.io/static/css/main.7d43ab7b.chunk.css.map",
-    "static/js/2.61ac8c38.chunk.js.LICENSE.txt": "/faiyaz-vaid.github.io/static/js/2.61ac8c38.chunk.js.LICENSE.txt",
+    "static/css/main.edd727c6.chunk.css.map": "/faiyaz-vaid.github.io/static/css/main.edd727c6.chunk.css.map",
+    "static/js/2.0d336cb2.chunk.js.LICENSE.txt": "/faiyaz-vaid.github.io/static/js/2.0d336cb2.chunk.js.LICENSE.txt",
     "static/media/3.jpg": "/faiyaz-vaid.github.io/static/media/3.141fb207.jpg",
     "static/media/font-awesome.min.css": "/faiyaz-vaid.github.io/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/me-1.jpg": "/faiyaz-vaid.github.io/static/media/me-1.cf5ae32f.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.430ce3db.js",
     "static/css/2.b226b99e.chunk.css",
-    "static/js/2.61ac8c38.chunk.js",
-    "static/css/main.7d43ab7b.chunk.css",
-    "static/js/main.7c50e326.chunk.js"
+    "static/js/2.0d336cb2.chunk.js",
+    "static/css/main.edd727c6.chunk.css",
+    "static/js/main.ba2e0f94.chunk.js"
   ]
 }
