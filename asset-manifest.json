@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/faiyaz-vaid.github.io/static/css/main.f06da1ac.chunk.css",
-    "main.js": "/faiyaz-vaid.github.io/static/js/main.43eb617c.chunk.js",
-    "main.js.map": "/faiyaz-vaid.github.io/static/js/main.43eb617c.chunk.js.map",
+    "main.js": "/faiyaz-vaid.github.io/static/js/main.3efb4a67.chunk.js",
+    "main.js.map": "/faiyaz-vaid.github.io/static/js/main.3efb4a67.chunk.js.map",
     "runtime-main.js": "/faiyaz-vaid.github.io/static/js/runtime-main.430ce3db.js",
     "runtime-main.js.map": "/faiyaz-vaid.github.io/static/js/runtime-main.430ce3db.js.map",
     "static/css/2.90161e46.chunk.css": "/faiyaz-vaid.github.io/static/css/2.90161e46.chunk.css",
-    "static/js/2.9d369d26.chunk.js": "/faiyaz-vaid.github.io/static/js/2.9d369d26.chunk.js",
-    "static/js/2.9d369d26.chunk.js.map": "/faiyaz-vaid.github.io/static/js/2.9d369d26.chunk.js.map",
+    "static/js/2.355784aa.chunk.js": "/faiyaz-vaid.github.io/static/js/2.355784aa.chunk.js",
+    "static/js/2.355784aa.chunk.js.map": "/faiyaz-vaid.github.io/static/js/2.355784aa.chunk.js.map",
     "index.html": "/faiyaz-vaid.github.io/index.html",
-    "precache-manifest.bb31b67ca5a52aa9966770d18cea777c.js": "/faiyaz-vaid.github.io/precache-manifest.bb31b67ca5a52aa9966770d18cea777c.js",
+    "precache-manifest.bffc14ed9078ae5879e92b8f419c643a.js": "/faiyaz-vaid.github.io/precache-manifest.bffc14ed9078ae5879e92b8f419c643a.js",
     "service-worker.js": "/faiyaz-vaid.github.io/service-worker.js",
     "static/css/2.90161e46.chunk.css.map": "/faiyaz-vaid.github.io/static/css/2.90161e46.chunk.css.map",
     "static/css/main.f06da1ac.chunk.css.map": "/faiyaz-vaid.github.io/static/css/main.f06da1ac.chunk.css.map",
-    "static/js/2.9d369d26.chunk.js.LICENSE.txt": "/faiyaz-vaid.github.io/static/js/2.9d369d26.chunk.js.LICENSE.txt",
+    "static/js/2.355784aa.chunk.js.LICENSE.txt": "/faiyaz-vaid.github.io/static/js/2.355784aa.chunk.js.LICENSE.txt",
     "static/media/cover.jpg": "/faiyaz-vaid.github.io/static/media/cover.675887d6.jpg",
     "static/media/crown-02.jpg": "/faiyaz-vaid.github.io/static/media/crown-02.84472d86.jpg",
     "static/media/crown-03.jpg": "/faiyaz-vaid.github.io/static/media/crown-03.572b017e.jpg",
@@ -44,8 +44,8 @@
   "entrypoints": [
     "static/js/runtime-main.430ce3db.js",
     "static/css/2.90161e46.chunk.css",
-    "static/js/2.9d369d26.chunk.js",
+    "static/js/2.355784aa.chunk.js",
     "static/css/main.f06da1ac.chunk.css",
-    "static/js/main.43eb617c.chunk.js"
+    "static/js/main.3efb4a67.chunk.js"
   ]
 }
