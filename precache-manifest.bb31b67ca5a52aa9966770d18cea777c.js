@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c03b4761e42866ec24b500b2774cb8d",
+    "revision": "60745381d166b698dfeebb4c8c6bbc45",
     "url": "/faiyaz-vaid.github.io/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/faiyaz-vaid.github.io/static/css/2.90161e46.chunk.css"
   },
   {
-    "revision": "7cc6238b8b5226fb9735",
-    "url": "/faiyaz-vaid.github.io/static/css/main.3daf4a8b.chunk.css"
+    "revision": "38a701189c32939b7173",
+    "url": "/faiyaz-vaid.github.io/static/css/main.f06da1ac.chunk.css"
   },
   {
     "revision": "3d71124d419b1f08d5f8",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/faiyaz-vaid.github.io/static/js/2.9d369d26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7cc6238b8b5226fb9735",
-    "url": "/faiyaz-vaid.github.io/static/js/main.a3db9e0e.chunk.js"
+    "revision": "38a701189c32939b7173",
+    "url": "/faiyaz-vaid.github.io/static/js/main.43eb617c.chunk.js"
   },
   {
     "revision": "abf98dfadd03e0b2235c",
