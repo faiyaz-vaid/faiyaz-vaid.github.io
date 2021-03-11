@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e93f32c01bb9f7c1cf65e46d3bc115a",
+    "revision": "9b8d5de5f8e6e52dbaadf41eaf046dee",
     "url": "/faiyaz-vaid.github.io/index.html"
   },
   {
-    "revision": "3d71124d419b1f08d5f8",
+    "revision": "78316bb0ae49c712371e",
     "url": "/faiyaz-vaid.github.io/static/css/2.90161e46.chunk.css"
   },
   {
-    "revision": "38a701189c32939b7173",
-    "url": "/faiyaz-vaid.github.io/static/css/main.f06da1ac.chunk.css"
+    "revision": "ff00707c39c1748fbd4d",
+    "url": "/faiyaz-vaid.github.io/static/css/main.99788c08.chunk.css"
   },
   {
-    "revision": "3d71124d419b1f08d5f8",
-    "url": "/faiyaz-vaid.github.io/static/js/2.9d369d26.chunk.js"
+    "revision": "78316bb0ae49c712371e",
+    "url": "/faiyaz-vaid.github.io/static/js/2.f5657686.chunk.js"
   },
   {
     "revision": "a50f3342d1471db9f976ef56bd2b7fdc",
-    "url": "/faiyaz-vaid.github.io/static/js/2.9d369d26.chunk.js.LICENSE.txt"
+    "url": "/faiyaz-vaid.github.io/static/js/2.f5657686.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38a701189c32939b7173",
-    "url": "/faiyaz-vaid.github.io/static/js/main.43eb617c.chunk.js"
+    "revision": "ff00707c39c1748fbd4d",
+    "url": "/faiyaz-vaid.github.io/static/js/main.0b41c2c9.chunk.js"
   },
   {
     "revision": "abf98dfadd03e0b2235c",
