@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b8d5de5f8e6e52dbaadf41eaf046dee",
+    "revision": "b7d6a46793b36f24724dc5eeaf9b2674",
     "url": "/faiyaz-vaid.github.io/index.html"
   },
   {
-    "revision": "78316bb0ae49c712371e",
+    "revision": "7e7b6628d8879b678acd",
     "url": "/faiyaz-vaid.github.io/static/css/2.90161e46.chunk.css"
   },
   {
-    "revision": "ff00707c39c1748fbd4d",
+    "revision": "4420a004d32415dac065",
     "url": "/faiyaz-vaid.github.io/static/css/main.99788c08.chunk.css"
   },
   {
-    "revision": "78316bb0ae49c712371e",
-    "url": "/faiyaz-vaid.github.io/static/js/2.f5657686.chunk.js"
+    "revision": "7e7b6628d8879b678acd",
+    "url": "/faiyaz-vaid.github.io/static/js/2.5fe5a329.chunk.js"
   },
   {
     "revision": "a50f3342d1471db9f976ef56bd2b7fdc",
-    "url": "/faiyaz-vaid.github.io/static/js/2.f5657686.chunk.js.LICENSE.txt"
+    "url": "/faiyaz-vaid.github.io/static/js/2.5fe5a329.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff00707c39c1748fbd4d",
-    "url": "/faiyaz-vaid.github.io/static/js/main.0b41c2c9.chunk.js"
+    "revision": "4420a004d32415dac065",
+    "url": "/faiyaz-vaid.github.io/static/js/main.b8409f31.chunk.js"
   },
   {
     "revision": "abf98dfadd03e0b2235c",
@@ -146,6 +146,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d980474f01e1067fb7e4ba2acdb42a8",
     "url": "/faiyaz-vaid.github.io/static/media/smartmockups_km3bpp3s.5d980474.jpg"
+  },
+  {
+    "revision": "f051c18330638f559ae1400dc8b2592e",
+    "url": "/faiyaz-vaid.github.io/static/media/smartmockups_km4rs6mp.f051c183.jpg"
+  },
+  {
+    "revision": "dd088cba10c2e6cbad612e99a253793a",
+    "url": "/faiyaz-vaid.github.io/static/media/smartmockups_km4ruk20.dd088cba.jpg"
+  },
+  {
+    "revision": "487588b42910d6f58851ebe01ce41187",
+    "url": "/faiyaz-vaid.github.io/static/media/smartmockups_km4rx7en.487588b4.jpg"
   },
   {
     "revision": "783645b9cc9c236a4a026d2d42920ca1",
