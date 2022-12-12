@@ -12,14 +12,14 @@ class Header extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      activeClass: ''
+      activeClass: 'bigscreen-header'
     }
   }
   componentDidMount(){
     window.addEventListener('scroll', () => {
-       let activeClass = 'nav_scroll';
+       let activeClass = 'bigscreen-header nav_scroll';
        if(window.scrollY === 0){
-           activeClass = '';
+           activeClass = 'bigscreen-header';
        }
        this.setState({ activeClass: activeClass });
     });
@@ -179,9 +179,9 @@ class Header extends React.Component {
         return (!$word.is(':last-child')) ? $word.next() : $word.parent().children().eq(0);
       }
     
-      function takePrev($word) {
-        return (!$word.is(':first-child')) ? $word.prev() : $word.parent().children().last();
-      }
+      // function takePrev($word) {
+      //   return (!$word.is(':first-child')) ? $word.prev() : $word.parent().children().last();
+      // }
     
       function switchWord($oldWord, $newWord) {
         $oldWord.removeClass('is-visible').addClass('is-hidden');
@@ -193,10 +193,15 @@ class Header extends React.Component {
     return (
       <section className="home svg_shape bg_image" id="home" style={{backgroundImage: "url(" + bannerImage + ")"}}>
         <div className="full_height">
-          <Navbar bg="transparent" fixed="top" className={`${this.state.activeClass}`}>
+          <Navbar collapseOnSelect expand="md" bg="transparent" fixed="top" className={`${this.state.activeClass}`}>
             <Container>
               <Navbar.Brand href="#home">FAIYAZ</Navbar.Brand>
-              <Navbar.Toggle aria-controls="basic-navbar-nav" />
+              {/* <Navbar.Toggle aria-controls="basic-navbar-nav" /> */}
+              <button className="mobile-menu-trigger navbar-toggler collapsed" onClick={this.activateMobileMenu}>
+                <span></span>
+                <span></span>
+                <span></span>
+              </button>
               <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
                 <Nav as="ul" defaultActiveKey="#home">
                   <Nav.Item as="li">
@@ -204,6 +209,9 @@ class Header extends React.Component {
                   </Nav.Item>
                   <Nav.Item as="li">
                     <Scrollchor to="#about" animate={{offset: -50, duration: 800}} className="nav-link">About</Scrollchor>
+                  </Nav.Item>
+                  <Nav.Item as="li">
+                    <Scrollchor to="#skills" animate={{offset: -50, duration: 800}} className="nav-link">Skills</Scrollchor>
                   </Nav.Item>
                   <Nav.Item as="li">
                     <Scrollchor to="#services" animate={{offset: -50, duration: 800}} className="nav-link">Services</Scrollchor>
@@ -219,7 +227,7 @@ class Header extends React.Component {
             </Container>
           </Navbar>
           <Container>
-            <Row style={{ height: '100vh' }}>
+            <Row className="full_height">
               <Col className="align-self-center">
                 <h3>Hello, I'm Faiyaz Vaid</h3>
                 <h1 className="cd-headline letters rotate-2 is-full-width">
@@ -228,6 +236,7 @@ class Header extends React.Component {
                         <b>Freelancer</b>
                     </span>
                 </h1>
+                <a href="https://www.upwork.com/o/profiles/users/~0156a07f75425bd443/" className="hire-me-btn" target="_blank" rel="noopener noreferrer">Hire me</a>
               </Col>
             </Row>
             {/* <div className="">
@@ -246,6 +255,15 @@ class Header extends React.Component {
         <svg className="curveDownColor" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none" style={{ fill: "#fff" }}> <path d="M0 0 C 50 100 80 100 100 0 Z"></path> </svg>
       </section>
     )
+  }
+  activateMobileMenu(e) {
+    e.preventDefault();
+    if(document.body.classList.contains('mmenu-push')) {
+      document.body.className = document.body.className.replace("mmenu-push","");
+    }
+    else {
+      document.body.classList.add('mmenu-push');
+    }
   }
 }
 

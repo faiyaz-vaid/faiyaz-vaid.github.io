@@ -20,7 +20,7 @@ function Footer() {
                 <i className="fa fa-instagram"></i>
             </a>
         </div>
-        <p>&copy; 2020 Faiyaz Vaid | All rights reserved.</p>
+        <p>&copy; 2022 Faiyaz Vaid | All rights reserved.</p>
       </Container>
     </footer>
   );

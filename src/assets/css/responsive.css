@@ -51,6 +51,21 @@
         display: none;
     }
 
+    .home {
+        background-attachment: scroll;
+    }
+    .home:before {
+        background: rgba(255, 255, 255, 0.5);
+    }
+    .home h1 {
+        font-size: 45px;
+        overflow: hidden;
+        margin-left: -10px;
+    }
+    .home .full_height {
+        height: 60vh;
+    }
+
     /*-- about --*/
     .about .my__img {
         padding-right: 20px;
@@ -85,6 +100,41 @@
         padding-left: 15px;
     }
 
+    .skill-wrapper .progress-bar .progress-bar-circ-container svg {
+        width: 35%;
+    }
+
+    body {
+        position: relative;
+        right: 0;
+        transition: right 0.5s ease;
+    }
+    .bigscreen-header {
+        left: auto !important;
+        transition: all 0.5s ease !important;
+        width: 100%;
+        padding: 0 20px;
+    }
+    .bigscreen-header .navbar-brand {
+        padding: 5px 0;
+        margin-right: 0;
+    }
+
+    .portfolio ul li {
+        margin-bottom: 15px;
+    }
+
+    .project-popup-content {
+        max-width: 90%;
+    }
+
+    .home .curveDownColor {
+        display: none;
+    }
+    .go_down {
+        bottom: 20px;
+    }
+    
 }
 
 @media(max-width:500px)
